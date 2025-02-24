@@ -2,7 +2,7 @@
 A developer currently working on innovative projects at NINGEN group
 
 # 💫 About Me:
-🔭 I’m currently working on an unique CRM/ERP Website <br> - I'm working on a unique and unusual project that combines elements of CRM and ERP systems.<br>👯 I’m looking to collaborate on IoT Projects - Interested in clound projects. Let’s connect!<br>DevOps - Keen on DevOps collaboration.<br>🤝 I’m looking for help with<br>IoT Challenges - Open to help with IoT-related challenges.<br>🌱 I’m currently learning<br>Programming on Raspberry Pi - Focusing on Raspberry Pi programming.<br>💬 Ask me about<br>Python - Experienced in Python.<br>Django - Experienced in Django.
+🔭 I’m currently working on an unique CRM/ERP Website <br> - I'm working on a unique and unusual project that combines elements of CRM and ERP systems.<br>👯 I’m looking to collaborate on IoT Projects - Interested in clound projects. Let’s connect!<br>DevOps - Keen on DevOps collaboration.<br>🤝 I’m looking for help with<br>web,cloud or iot Challenges - Open to help with IoT-related challenges.<br>💬 Ask me about<br>Python - Experienced in Python.<br>Django - Experienced in Django.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malek.kharoubi.59) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malek_kharoubi7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kharroubi-malek-b7bb04281) 
