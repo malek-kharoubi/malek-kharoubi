@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'mMalek from Tunisia<br><br>- 🔭 I’m working as Software Developer Bulding SAAS platforms<br>- 📚 I'm currently learning AWS architecture</p>
+<p align="left">I'm Malek from Tunisia<br><br>- 🔭 I’m working as Software Developer Bulding SAAS platforms<br>- 📚 I'm currently learning AWS architecture</p>
 
 ###
 
