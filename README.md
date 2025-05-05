@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=malek-kharoubi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=malek-kharoubi&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malek-kharoubi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malek-kharoubi&layout=compact&langs_count=10&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&custom_title=Most%20Used%20Languages&hide=html,css)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=malek-kharoubi&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
