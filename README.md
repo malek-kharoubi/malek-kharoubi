@@ -1,24 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently working on a SAAS CRM project<br>🌱 I’m currently learning Cloud architecture on AWS<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,12,24&text=Malek%20Kharoubi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Building%20SaaS%20CRM%20%C2%B7%20Climbing%20the%20AWS%20cloud&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Malek Kharoubi banner" />
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<div align="center">
 
-# 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=malek-kharoubi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&v=2" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=malek-kharoubi&theme=transparent&hide_border=false&v=2" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=malek-kharoubi&layout=compact&theme=transparent&v=2" alt="Top Languages" />
-</p>
+<a href="https://github.com/malek-kharoubi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-stack+engineer+%F0%9F%9A%80;Django+%C2%B7+FastAPI+%C2%B7+Flask;Designing+cloud+architecture+on+AWS+%E2%98%81%EF%B8%8F;Turning+workforce+data+into+decisions" alt="Typing intro" />
+</a>
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=malek-kharoubi&theme=shadow_blue&v=2" alt="GitHub Trophies" />
-</p>
+<br/>
 
-### 🔝 Top Contributed Repo
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=malek-kharoubi&repo=YOUR_REPO_NAME&theme=dark&v=2" alt="Top Contributed Repo" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=malek-kharoubi&label=Profile+views&color=58a6ff&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-SaaS%20CRM-58a6ff?style=flat-square" alt="Focus: SaaS CRM" />
+<img src="https://img.shields.io/badge/Learning-AWS%20Cloud%20Architecture-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Learning AWS" />
+
+</div>
+
+<br/>
+
+## 👋 About me
+
+- 🔭 Working on a **SaaS CRM** platform
+- 🌱 Learning **cloud architecture on AWS**
+- 🧩 I like multi-service backends: Django for the core, FastAPI/Flask/Go services around it, Redis for real-time
+
+<br/>
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,raspberrypi,postman&theme=dark" alt="Cloud and DevOps" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,c&theme=dark" alt="Backend" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" alt="Frontend" />
+
+**Data**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,dynamodb,redis&theme=dark" alt="Data" />
+
+</div>
+
+<br/>
+
+## 📊 Activity (private repos included)
+
+<div align="center">
+
+<img src="./metrics.header.svg" alt="Overview" />
+
+<img src="./metrics.languages.svg" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com/?user=malek-kharoubi&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&border=30363D&card_width=500&border_radius=12" alt="GitHub streak" />
+
+<img src="./metrics.achievements.svg" alt="Achievements" />
+
+<img src="./metrics.isocalendar.svg" alt="3D contribution calendar" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snake.svg" />
+  <img alt="Contribution snake" src="./snake-dark.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,12,24&section=footer" width="100%" alt="" />
+
+</div>
