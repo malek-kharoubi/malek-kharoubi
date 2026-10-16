@@ -54,7 +54,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=malek-kharoubi&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&border=30363D&card_width=500&border_radius=12" alt="GitHub streak" />
 
-<img src="./metrics.calendar.svg" alt="Contribution calendar" />
+<img src="./contributions.svg" alt="Contribution calendar" />
 
 </div>
 
