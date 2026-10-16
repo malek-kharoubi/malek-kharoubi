@@ -60,14 +60,4 @@
 
 <br/>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./snake.svg" />
-  <img alt="Contribution snake" src="./snake-dark.svg" />
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,12,24&section=footer" width="100%" alt="" />
-
-</div>

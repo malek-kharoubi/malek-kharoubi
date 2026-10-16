@@ -58,25 +58,3 @@ jobs:
           user: malek-kharoubi
           plugin_calendar: yes
           plugin_calendar_limit: 1
-
-  snake:
-    runs-on: ubuntu-latest
-    needs: metrics
-    # still draw the snake if a metrics step fails; it only needs the latest main
-    if: ${{ !cancelled() }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            snake.svg
-            snake-dark.svg?palette=github-dark
-      - name: Commit snake
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add snake.svg snake-dark.svg
-          git diff --cached --quiet || (git commit -m "update snake" && git pull --rebase && git push)
